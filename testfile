@@ -1,5 +1,9 @@
 this is for push
 hello 
 this is getting modified
+<<<<<<< HEAD
 adding new line by dev1
 
+=======
+this line is added by dev2
+>>>>>>> 85db77015d7df6834255e3c5d0bf5f71ea485dd9
